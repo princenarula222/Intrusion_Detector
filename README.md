@@ -20,7 +20,7 @@ Place these files in the root folder of the repository.
 Run 'detector.py' to train and test the model.
 
 # Result
-Following files are generated in the root folder upon completion of execution.
+Following files are generated in the root folder upon successful execution.
 
 y_true.csv - stores true labels of the processes contained in test set
 
